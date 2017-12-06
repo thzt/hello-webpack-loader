@@ -1,0 +1,23 @@
+{
+  "name": "hello-webpack-loader",
+  "version": "1.0.0",
+  "description": "hello-webpack-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/hello-webpack-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/hello-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/thzt/hello-webpack-loader#readme",
+  "devDependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}

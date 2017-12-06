@@ -1,2 +1,3 @@
-# hello-webpack-loader
-hello-webpack-loader
+### hello-webpack-loader
+
+A webpack loader example.
